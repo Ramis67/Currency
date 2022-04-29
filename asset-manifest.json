@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Currency/static/css/main.4321c682.css",
+    "main.js": "/Currency/static/js/main.3c4c643f.js",
+    "static/media/ruble.gif": "/Currency/static/media/ruble.531f4895decca74542d8.gif",
+    "index.html": "/Currency/index.html",
+    "main.4321c682.css.map": "/Currency/static/css/main.4321c682.css.map",
+    "main.3c4c643f.js.map": "/Currency/static/js/main.3c4c643f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4321c682.css",
+    "static/js/main.3c4c643f.js"
+  ]
+}
